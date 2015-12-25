@@ -1,0 +1,1 @@
+Just a simple math parser and interpreter, it is based on Djikstra's Shunting-yard algorithm to convert common to RPN math expressions, useful on calculators projects, written on plain C.
